@@ -1,1 +1,3 @@
-export default 1 // TODO Implement actual functionality
+export default () => {
+  return String.fromCodePoint(3486)
+}

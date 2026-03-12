@@ -21,7 +21,7 @@
     "@devicefarmer/adbkit": "^3.3.8",
     "@fal-ai/client": "^1.9.4",
     "@octokit/rest": "^22.0.1",
-    "@openrouter/ai-sdk-provider": "^2.2.5",
+    "@openrouter/ai-sdk-provider": "^2.3.0",
     "@xdevplatform/xdk": "^0.5.0",
     "ai": "^6.0.116",
     "cheerio": "^1.2.0",
@@ -44,7 +44,7 @@
     "query-string": "^9.3.1",
     "random": "^5.4.1",
     "simple-git": "^3.33.0",
-    "temporal-polyfill": "^0.3.1",
+    "temporal-polyfill": "^0.3.2",
     "tempy": "^3.2.0",
     "turndown": "^7.2.2",
     "zeug": "^2.1.0"

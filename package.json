@@ -50,10 +50,10 @@
     "zeug": "^2.1.0"
   },
   "devDependencies": {
-    "@types/bun": "^1.3.13",
+    "bun-types": "^1.3.13",
     "eslint": "^10.2.1",
     "eslint-config-jaid": "^26.0.0",
     "tsconfig-jaid-node": "^14.1.0",
-    "typescript": "^6.0.3"
+    "@typescript/native-preview": "7.0.0-dev.20260427.1"
   }
 }
